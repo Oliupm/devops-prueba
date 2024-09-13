@@ -9,7 +9,7 @@ import PaquetePruebas.Experiment;
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);// mvnw clean spring-boot:run
-        int num = 9;
+        int num = 1;
         Experiment pr = new Experiment(num);
         System.out.println(pr.getNumber());
     }
