@@ -15,5 +15,6 @@ public class Application {
         Experiment pr = new Experiment(num);
         System.out.println(pr.getNumber());
         System.out.println("Fraction");
+        System.out.println("User");
     }
 }
