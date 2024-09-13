@@ -16,5 +16,6 @@ public class Application {
         System.out.println(pr.getNumber());
         System.out.println("Fraction");
         System.out.println("User");
+        System.out.println("UserTest");
     }
 }
